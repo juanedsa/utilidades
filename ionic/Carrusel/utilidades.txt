@@ -1,0 +1,7 @@
+# Carrusel
+http://www.prosoxi.com/2011/11/22/roundabout-for-jquery/
+http://www.myjqueryplugins.com/jquery-plugin/roudabout-coverflow#field_options
+http://codepen.io/jasondavis/pen/IqsGm
+
+# Hammer Touch
+http://hammerjs.github.io/

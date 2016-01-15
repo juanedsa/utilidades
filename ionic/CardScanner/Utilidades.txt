@@ -1,0 +1,7 @@
+# Utilidades CardScanner
+
+
+https://www.card.io/
+
+https://www.npmjs.com/package/cordova-plugin-keepe-cardio
+
