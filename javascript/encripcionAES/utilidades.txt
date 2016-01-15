@@ -1,0 +1,11 @@
+Utilidades para esta libreria
+
+# Estilos para el demo
+http://codepen.io/ssbalakumar/pen/JLrgc
+
+# uso de crypto-js
+http://stackoverflow.com/questions/23321049/compatible-aes-algorithm-for-java-and-javascript
+
+# crypto-js
+https://code.google.com/p/crypto-js/
+

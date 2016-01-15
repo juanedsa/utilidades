@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Test encripcion AES</title>
+
+  <!-- lib NetcomSeguridadDatosQR -->
+   <script src="crypto-js/aes.js"></script>
+   <script src="CifrarGenerico.js"></script>
+
+  <script>
+    (function () {
+        console.log('Inicia Test');
+
+        /** Se obtiene el objeto controlador */
+        this.cifrardor = new CifrarGenerico();
+
+        var cifrado = this.cifrardor.encriptar("Hola mundo!");
+
+        /** Se muestra la cadena cifrada */
+        console.log(cifrado);
+
+        var descifrado = this.cifrardor.desencriptar(cifrado);
+
+        /** Se muestra la cadena descifrada */
+        console.log(descifrado);
+
+        console.log('Finaliza Test');
+    }());
+
+  </script>
+</head>
+<body>
+
+</body>
+</html>
